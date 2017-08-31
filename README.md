@@ -1,6 +1,8 @@
 wechat_spider
 =====
 
+###fork自[金马的github](https://github.com/lijinma/wechat_spider)
+
 [![NPM version](https://badge.fury.io/js/wechat_spider.png)](http://badge.fury.io/js/wechat_spider)
 [![David Status](https://david-dm.org/lijinma/wechat_spider.png)](https://david-dm.org/lijinma/wechat_spider)
 
