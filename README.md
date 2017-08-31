@@ -152,3 +152,11 @@ $ wechat_spider
 ## LICENSE
 
 MIT.
+
+
+注：修改后使用mysql数据库，需要先去新建一张posts表，从历史记录进入时需要手动下拉获取最新的列表，完成后手动点击进入详情页面开始获取详情
+
+启动方式为:
+cd wechat_spider
+npm install
+./bin/wechat_spider
