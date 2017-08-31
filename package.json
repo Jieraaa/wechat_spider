@@ -7,6 +7,8 @@
     "anyproxy": "^3.10.3",
     "commander": "^2.9.0",
     "iconv": "^2.2.3",
+    "mysql": "^2.14.1",
+    "mysql2": "^1.4.2",
     "sequelize": "^3.30.4",
     "sqlite3": "^3.1.8"
   },
